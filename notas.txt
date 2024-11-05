@@ -1,0 +1,29 @@
+####  Inicializar proyecto llamado componentsApp
+npx react-native init componentsApp
+
+///  Indica que la instruccion ya es depreciada, se recomienda usar:
+npx @react-native-community/cli init
+
+
+
+
+Run instructions for Android:
+    • Have an Android emulator running (quickest way to get started), or a device connected.
+    • cd "/Users/tayronijimenez/react_native/componentsApp" && npx react-native run-android
+  
+  Run instructions for iOS:
+    • cd "/Users/tayronijimenez/react_native/componentsApp"
+    
+    • npx react-native run-ios
+    - or -
+    • Open componentsApp/ios/componentsApp.xcodeproj in Xcode or run "xed -b ios"
+    • Hit the Run button
+    
+  Run instructions for macOS:
+    • See https://aka.ms/ReactNativeGuideMacOS for the latest up-to-date instructions.
+
+
+####   Iniciar el servicio
+    npm run start
+
+    
